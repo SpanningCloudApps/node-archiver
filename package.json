@@ -39,7 +39,7 @@
     "zip-stream": "^1.0.0"
   },
   "devDependencies": {
-    "archiver-jsdoc-theme": "^1.0.0",
+    "archiver-jsdoc-theme": "git://github.com/SpanningCloudApps/archiver-utils.git#walkDirFix",
     "jsdoc": "~3.4.0",
     "chai": "^3.4.0",
     "mocha": "^2.3.3",
